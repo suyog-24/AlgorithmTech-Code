@@ -3,3 +3,4 @@ Welcome to the Cloud Journey
 Developer 2nd work
 feature1 red colour is added in the cart item.
 AWS cloud
+Azure Cloud
