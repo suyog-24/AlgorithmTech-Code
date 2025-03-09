@@ -4,3 +4,4 @@ Developer 2nd work
 feature1 red colour is added in the cart item.
 AWS cloud
 Azure Cloud
+type of code review is based on a concept known as pull requests. Pull requests provide a forum to discuss proposed changes to your codebase before they’re merged into shared branches (e.g. before merging a feature branch into master).
