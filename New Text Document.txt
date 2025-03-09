@@ -1,0 +1,11 @@
+Which is better for coding - DeepSeek or ChatGPT? 
+DeepSeek typically performs better for rapid code 
+generation and technical tasks, with faster response 
+timstrues for structuredture queries. However, ChatGPT offers 
+more detailed explanations and better documentation, making it 
+ideal for learning and mplexco implementations.
+generation and techries tasks, with faster response 
+times for structured queries. Howeverter, ChatGPT offers 
+more detailed explanations and better documentation, making it 
+ideal for learninglearning and complexcomplex implementations.
+ideal for learning and complex implement
